@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #87cefa9a	;
+}
+
+#container {
+    background-color: #87cefa;
+    margin: 0 auto;
+    width: 950px;
+}
+
+.menu {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 8px;
+}
+
+.logo img {
+    width: 250px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-transform: uppercase;
+    color: #dedde6;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 3px;
+    padding: 4px;
+}
+
